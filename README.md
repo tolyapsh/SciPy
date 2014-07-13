@@ -1,9 +1,9 @@
-SciPy
+# SciPy
 =====
 
 Examples and exercises from the book "A Primer on Scientific Programming With Python"
 
-Chapters:
+## Chapters:
 1. Computing with Formulas
 2. Loops and Lists
 3. Functions and Branching
