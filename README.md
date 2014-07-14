@@ -15,11 +15,11 @@ Examples and exercises from the book "A Primer on Scientific Programming With Py
 9. Object-Oriented Programming
 
 ## Appendixes
-A. Sequences and Difference Equations
-B. Introduction to Discrete Calculus
-C. Introduction to Differential Equations
-D. A Complete Differential Equation Project
-E. Programming of Differential Equations
-F. Debugging
-G. Migrating Python to Compiled Code
-H. Technical Topics
+- A. Sequences and Difference Equations
+- B. Introduction to Discrete Calculus
+- C. Introduction to Differential Equations
+- D. A Complete Differential Equation Project
+- E. Programming of Differential Equations
+- F. Debugging
+- G. Migrating Python to Compiled Code
+- H. Technical Topics
