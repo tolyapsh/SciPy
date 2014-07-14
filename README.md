@@ -13,6 +13,8 @@ Examples and exercises from the book "A Primer on Scientific Programming With Py
 7. Introduction to Classes
 8. Random Numbers and Simple Games
 9. Object-Oriented Programming
+
+## Appendixes
 A. Sequences and Difference Equations
 B. Introduction to Discrete Calculus
 C. Introduction to Differential Equations
